@@ -1,1 +1,7 @@
-# browsers-can-do-that
+# Basic project setup
+
+- Web Dev Server
+- Lit
+- Suunta
+- JSConfig
+- Prettier
