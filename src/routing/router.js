@@ -3,7 +3,7 @@ import { FooView } from "../views/foo-view.js";
 import { HomeView } from "../views/home-view.js";
 
 /**
- * @type { import("suunta-core").Route[] }
+ * @type { import("suunta").Route[] }
  * */
 const routes = [
     {
@@ -19,7 +19,7 @@ const routes = [
 ];
 
 /**
- * @type { import("suunta-core").SuuntaInitOptions }
+ * @type { import("suunta").SuuntaInitOptions }
  * */
 const options = {
     routes
