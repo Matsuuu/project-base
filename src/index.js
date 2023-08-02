@@ -1,5 +1,5 @@
 import { debugBubble } from "debug-bubble";
-import { router } from "./routing/router";
+import { router } from "./routing/router.js";
 
 router.start();
 

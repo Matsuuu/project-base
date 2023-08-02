@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "web-dev-server --node-resolve --open --watch --app-index index.html"
+    "start": "npm run start:no-resolve -- --node-resolve",
+    "start:no-resolve": "web-dev-server --open --watch --app-index index.html"
   },
   "keywords": [],
   "author": "",

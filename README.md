@@ -5,3 +5,4 @@
 - Suunta
 - JSConfig
 - Prettier
+- Debug Bubble
