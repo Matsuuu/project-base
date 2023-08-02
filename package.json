@@ -4,12 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-      "start": "web-dev-server --node-resolve --open --watch --app-index index.html"
+    "start": "web-dev-server --node-resolve --open --watch --app-index index.html"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "debug-bubble": "^1.1.0",
     "lit": "^2.7.5",
     "suunta": "^1.0.2"
   },
